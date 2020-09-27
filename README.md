@@ -3,7 +3,7 @@ A simple Multi-File Binary Binding solution in Pure PHP.
 
 It's so simple, the whole custom function fits in this readme,
 
-`
+```
 <?php
 
 function bindFiles($filePath1, $filePath2, $bindedOutputFilePath) {
@@ -42,4 +42,4 @@ fclose($outFile);
 
 ?>
 
-`
+```
